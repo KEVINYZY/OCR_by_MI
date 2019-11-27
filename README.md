@@ -1,4 +1,4 @@
-# OCR_by_MI
+zd# OCR_by_MI
 ![Python Version](https://img.shields.io/badge/python-3.6-blue.svg)
 
 # 基于向量机算法的数字识别
